@@ -32,6 +32,7 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
   # Books
   - "SQL w mgnieniu oka" Ben Forta
   - "Czysty Kod" Robert C. Martin
+  - "SQL Quickstart Guide" Walter Shields
   # Groups on Facebook
   # Blogs
   # Webinars
