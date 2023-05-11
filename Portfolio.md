@@ -4,6 +4,7 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
 <ol>
   <li>Tools</li>
   [PicPick](https://picpick.app/en/)
+  My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
   <li>Tech Skills</li>
   <li>Courses</li>
   <li>Books</li>
