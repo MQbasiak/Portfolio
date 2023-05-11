@@ -19,7 +19,7 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
    - [TeamViewer](https://www.teamviewer.com/pl/) - Tool for operating systems remotely
    - [Apache JMeter](https://jmeter.apache.org/) - Load test functional behavior and performance measurement tool.
   
-  #Tech Skills
+  # Tech Skills
   - SQL
   - DevTools
   - SCRUM
@@ -27,14 +27,14 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
   - Reporting bugs
   - Software testing
   
-  #Courses
+  # Courses
   #Books
   - "SQL w mgnieniu oka" Ben Forta
   - "Czysty Kod" Robert C. Martin
-  #Groups on Facebook
-  #Blogs
-  #Webinars
-  #My test case example
-  #My bug reports
-  #My projects
+  # Groups on Facebook
+  # Blogs
+  # Webinars
+  # My test case example
+  # My bug reports
+  # My projects
 
