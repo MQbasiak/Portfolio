@@ -13,6 +13,10 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
    - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Record and playback test automation for the web
    - [MySQL](https://www.mysql.com/) - Relational database management system
    - [MySQL Workbench](https://www.mysql.com/products/workbench/) - Visual tool for database architects and developers
+   - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE written in Java
+   - [Cucumber](https://cucumber.io/) -  tool supporting Behaviour-Driven Development
+   - [TeamViewer](https://www.teamviewer.com/pl/) - Tool for operating systems remotely
+   - [Apache JMeter](https://jmeter.apache.org/) - Load test functional behavior and performance measurement tool.
   #Tech Skills
   #Courses
   #Books
