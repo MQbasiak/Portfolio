@@ -7,7 +7,7 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
    - [PicPick](https://picpick.app/en/) -  Screen capture software
    - [Slack](https://slack.com/) - Communication platform
    - [Postman](https://www.postman.com/) - Testing tool for REST API
-   - [Jira](https://www.atlassian.com/software/jira0) - Project management tool
+   - [Jira](https://www.atlassian.com/software/jira) - Project management tool
    - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Record and playback test automation for the web
   #Tech Skills
   #Courses
