@@ -28,6 +28,7 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
   - Software testing
   
   # Courses
+  - Tester Oprogramowania - Software Development Academy
   # Books
   - "SQL w mgnieniu oka" Ben Forta
   - "Czysty Kod" Robert C. Martin
