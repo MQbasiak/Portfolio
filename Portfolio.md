@@ -28,7 +28,7 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
   - Software testing
   
   # Courses
-  #Books
+  # Books
   - "SQL w mgnieniu oka" Ben Forta
   - "Czysty Kod" Robert C. Martin
   # Groups on Facebook
