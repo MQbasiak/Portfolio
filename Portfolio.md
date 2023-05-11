@@ -34,6 +34,9 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
   - "Czysty Kod" Robert C. Martin
   - "SQL Quickstart Guide" Walter Shields
   # Groups on Facebook
+  - Bazy danych i SQL dla początkujących
+  - Początki w IT / Początkujący programiści
+  - SQL, Data Analytics & Business Intelligence
   # Blogs
   # Webinars
   # My test case example
