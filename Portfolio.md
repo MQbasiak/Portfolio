@@ -8,7 +8,11 @@ Highly motivated, flexible and enthusiastic. An excellent communicator, a proven
    - [Slack](https://slack.com/) - Communication platform
    - [Postman](https://www.postman.com/) - Testing tool for REST API
    - [Jira](https://www.atlassian.com/software/jira) - Project management tool
+   - [TestRail](https://www.testrail.com/) - Centralized QA platform for testing
+   - [Confluence](https://www.atlassian.com/software/confluence) - Team workspace 
    - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Record and playback test automation for the web
+   - [MySQL](https://www.mysql.com/) - Relational database management system
+   - [MySQL Workbench](https://www.mysql.com/products/workbench/) - Visual tool for database architects and developers
   #Tech Skills
   #Courses
   #Books
